@@ -1752,10 +1752,11 @@ hr {
   margin-bottom: 50px;
 }
 .section_heading .heading_subtitle {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1;
-  margin-bottom: 15px;
+font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 15px;
 }
 .section_heading .double_icon {
   margin-inline-end: 5px;
@@ -1779,10 +1780,11 @@ hr {
   color: #FFC961;
 }
 .section_heading .heading_title {
-  font-size: 50px;
-  line-height: 1.36;
-  margin-bottom: 25px;
-  text-transform: capitalize;
+font-size: 19px;
+    color: #494949;
+    line-height: 1.36;
+    margin-bottom: 25px;
+    text-transform: capitalize;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .section_heading .heading_title {
@@ -5849,7 +5851,7 @@ textarea.form-control {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 50px 30px;
-  padding: 59px 10px;
+  padding: 28px 10px;
   place-items: center;
   border-radius: 12px;
   background-color: #ffffff;
