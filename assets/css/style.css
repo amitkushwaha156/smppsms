@@ -3808,7 +3808,8 @@ textarea.form-control {
 
 .header_wrapper {
   display: grid;
-  grid-template-columns: 25% auto 25%;
+  /* grid-template-columns: 25% auto 25%; */
+  grid-template-columns: 16% auto 21%;
   justify-content: space-between;
   align-items: center;
 }
