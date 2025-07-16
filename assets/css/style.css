@@ -5876,8 +5876,8 @@ textarea.form-control {
   }
 }
 .client_logo_boxed.bg_primary {
-  border-color: #5355DF;
-  background-color: #5355DF;
+     border-color: #eaeaff;
+    background-color: #bcbcc8;
 }
 
 .client_logo_item {
